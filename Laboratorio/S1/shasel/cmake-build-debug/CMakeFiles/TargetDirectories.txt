@@ -1,3 +1,0 @@
-C:/Users/HP/Desktop/POO-UTEC/Mentoria/Laboratorio/S1/shasel/cmake-build-debug/CMakeFiles/shasel.dir
-C:/Users/HP/Desktop/POO-UTEC/Mentoria/Laboratorio/S1/shasel/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/HP/Desktop/POO-UTEC/Mentoria/Laboratorio/S1/shasel/cmake-build-debug/CMakeFiles/rebuild_cache.dir
