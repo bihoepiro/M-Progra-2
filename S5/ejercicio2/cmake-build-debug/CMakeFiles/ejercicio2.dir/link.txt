@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ejercicio2.dir/main.cpp.o CMakeFiles/ejercicio2.dir/funciones.cpp.o -o ejercicio2 
