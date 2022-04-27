@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Lab/PP2/ejercicio7/funciones.cpp
+iostream
+-
+iomanip
+-
+random
+-
+funciones.h
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Lab/PP2/ejercicio7/funciones.h
+string
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Lab/PP2/ejercicio7/string
+
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Lab/PP2/ejercicio7/funciones.h
+string
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Lab/PP2/ejercicio7/string
+
