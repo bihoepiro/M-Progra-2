@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S7/E2/CEstadistica.cpp
+CEstadistica.h
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S7/E2/CEstadistica.h
+
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S7/E2/CEstadistica.h
+vector
+-
+iostream
+-
+
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S7/E2/main.cpp
+iostream
+-
+CEstadistica.h
+/Users/IamBihonda/Desktop/UTEC/C2/P2/Mentorias/S7/E2/CEstadistica.h
+
