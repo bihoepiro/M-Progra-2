@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/ETeoria.dir/main.cpp.o CMakeFiles/ETeoria.dir/CCliente.cpp.o CMakeFiles/ETeoria.dir/CPizza.cpp.o CMakeFiles/ETeoria.dir/CTrattoria.cpp.o -o ETeoria 
